@@ -11,6 +11,8 @@ from Day9 import *
 from Day10 import *
 from Day11 import *
 from Day12 import *
+from Day13 import *
+from Day14 import *
 
 
 # Press Shift+F10 to execute it or replace it with your code.
@@ -19,5 +21,5 @@ from Day12 import *
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    day12()
+    day14()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
